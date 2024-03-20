@@ -1,1 +1,10 @@
-# talks
+* [PyData Madrid "***Prediction using Conformal Prediction***"](20240320_conformal_prediction.pdf) (20th March 2024)
+  * **Supplementary material** (Jupyter notebooks)
+    * [Prediction intervals: Quantile Regression Forests](https://www.kaggle.com/code/carlmcbrideellis/prediction-intervals-quantile-regression-forests)
+            - example of how to implement CQR "by-hand" (as per slide 19)
+    * [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie)
+            - example of using CQR via MAPIE (as per slide 22)
+    * [Locally-weighted conformal regression](https://www.kaggle.com/code/carlmcbrideellis/locally-weighted-conformal-regression)
+            - another powerful CP technique demonstrated "by-hand"
+    * [Classifier calibration using Venn-ABERS](https://www.kaggle.com/code/carlmcbrideellis/classifier-calibration-using-venn-abers)
+            - how to apply IVAP and CVAP (slides 36 and 37)
